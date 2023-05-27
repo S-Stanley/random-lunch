@@ -72,14 +72,17 @@ def get_today_lunchs()
     return output
 end
 
-LUNCHS = get_today_lunchs()
-
-
-for arg in ARGV
-    if arg.split('=')[0] == 'debug' and arg.split('=')[1] == 'true'
-        $DEBUG = true
+def setup_env_variables()
+    for arg in ARGV
+        if arg.split('=')[0] == 'debug' and arg.split('=')[1] == 'true'
+            $DEBUG = true
+        end
     end
 end
+
+setup_env_variables()
+LUNCHS = get_today_lunchs()
+
 if $DEBUG
     for lunch in LUNCHS do
         puts lunch
