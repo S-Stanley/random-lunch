@@ -1,0 +1,42 @@
+[
+    {
+        "id": "00",
+        "user_id": "00",
+        "with_user_id": "01"
+    },
+    {
+        "id": "01",
+        "user_id": "00",
+        "with_user_id": "02"
+    },
+    {
+        "id": "02",
+        "user_id": "00",
+        "with_user_id": "03"
+    },
+    {
+        "id": "03",
+        "user_id": "00",
+        "with_user_id": "04"
+    },
+    {
+        "id": "05",
+        "user_id": "01",
+        "with_user_id": "00"
+    },
+    {
+        "id": "07",
+        "user_id": "02",
+        "with_user_id": "00"
+    },
+    {
+        "id": "08",
+        "user_id": "03",
+        "with_user_id": "00"
+    },
+    {
+        "id": "09",
+        "user_id": "04",
+        "with_user_id": "00"
+    }
+]

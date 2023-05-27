@@ -1,0 +1,58 @@
+[
+    {
+        "group_id": "00",
+        "user_id": "00",
+        "active_today": true
+    },
+    {
+        "group_id": "00",
+        "user_id": "01",
+        "active_today": true
+    },
+    {
+        "group_id": "00",
+        "user_id": "02",
+        "active_today": true
+    },
+
+    {
+        "group_id": "01",
+        "user_id": "00",
+        "active_today": true
+    },
+    {
+        "group_id": "01",
+        "user_id": "03",
+        "active_today": true
+    },
+    {
+        "group_id": "01",
+        "user_id": "04",
+        "active_today": true
+    },
+    {
+        "group_id": "01",
+        "user_id": "05",
+        "active_today": true
+    },
+    {
+        "group_id": "01",
+        "user_id": "06",
+        "active_today": true
+    },
+    {
+        "group_id": "01",
+        "user_id": "07",
+        "active_today": false
+    },
+    {
+        "group_id": "01",
+        "user_id": "08",
+        "active_today": false
+    },
+    {
+        "group_id": "01",
+        "user_id": "09",
+        "active_today": true
+    }
+]
